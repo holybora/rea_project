@@ -9,14 +9,7 @@ import functools
 
 from dotenv import load_dotenv
 from agent.REAgent import REAgent
-
-
-
-
-try:
-    import gradio as gr
-except Exception:  # pragma: no cover - gradio optional at runtime
-    gr = None  # type: ignore
+import gradio as gr
 
 
 
