@@ -1,0 +1,13 @@
+{
+  "dockerfile_lines": [],
+  "graphs": {
+    "prop_finder_agent": "/Users/admin/Documents/PythonProjects/rea_project/studio/agent/PropFinderAgent.py:graph",
+    "supervisor_agent": "/Users/admin/Documents/PythonProjects/rea_project/studio/agent/SupervisorAgent.py:graph",
+    "prop_finder_agent3": "/Users/admin/Documents/PythonProjects/rea_project/studio/agent/PropFinderAgent3.py:agent"
+  },
+  "env": ".env",
+  "python_version": "3.12",
+  "dependencies": [
+    "."
+  ]
+}
